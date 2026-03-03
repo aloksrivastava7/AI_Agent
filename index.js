@@ -1,6 +1,5 @@
-import OpenAI from 'openai';
+import OpenAI from 'openai';   
 import readLineSync from 'readline-sync';
-
 
 // Your OpenAI API key
 const OPENAI_API_KEY = '';
