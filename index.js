@@ -1,8 +1,9 @@
-import OpenAI from 'openai';   
+import OpenAI from 'openai';
 import readLineSync from 'readline-sync';
 
+
 // Your OpenAI API key
-const OPENAI_API_KEY = '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';
+const OPENAI_API_KEY = '';
 
 // Client configuration to interact with the OpenAI API
 const client = new OpenAI({
