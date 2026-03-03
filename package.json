@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/aloksrivastava7/AI_Agent#readme",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "openai": "^6.25.0",
     "readline-sync": "^1.4.10"
   }
